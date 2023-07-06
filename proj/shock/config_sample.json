@@ -1,0 +1,28 @@
+{
+  "config": {
+    "verbose": 1,
+    "datadir": "/work/knagai/0519_a10Ma30_2",
+    "max_elapsed": 1000000,
+    "max_it": 30000,
+    "intvl_ptcl": 1000,
+    "intvl_mom": 500,
+    "intvl_orb": 500,
+    "intvl_expand": 1
+  },
+  "parameter": {
+    "num_process": 4,
+    "n_ppc": 20,
+    "n_x":9000,
+    "n_x_ini": 500,
+    "n_y": 480,
+    "mass_ratio": 2.5E+1,
+    "alpha": 10.0,
+    "ma": 30.0,
+    "rtemp": 1.0,
+    "betai": 0.5,
+    "rdbl": 1.0,
+    "theta_bn": 0.9E+2,
+    "phi_bn": 0.9E+2,
+    "l_damp_ini": 0.1E+3
+  }
+}
